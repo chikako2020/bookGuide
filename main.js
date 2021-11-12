@@ -102,7 +102,7 @@ element.appendChild(script);
     appendAssessmentResult(resultDivided,result);
   
     const img = document.createElement('img');  // imgタグを診断結果表示エリアに追加
-    img.setAttribute('src', 'img/bookGuide.png');
+    img.setAttribute('src', 'bookGuide.png');
     resultDivided.appendChild(img);
 
 //Tweetボタンの表示
